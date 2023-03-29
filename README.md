@@ -17,17 +17,17 @@ Live Demo and Playground: [https://gjmolter.github.io/revo-calendar](https://gjm
 
 ```bash
 #NPM
-npm i revo-calendar
+npm i revo-calendar-fork
 
 #YARN
-yarn add revo-calendar
+yarn add revo-calendar-fork
 ```
 
 ## Usage ✍️
 
 ```jsx
 //Import the component
-import RevoCalendar from "revo-calendar";
+import RevoCalendar from "revo-calendar-fork";
 
 const Index = () => {
   return <RevoCalendar {...props} />;
