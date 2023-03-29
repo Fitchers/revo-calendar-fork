@@ -24,7 +24,7 @@ import {
 let animatingSidebar = 0;
 let animatingDetail = 0;
 
-const RevoCalendar = ({
+const RevoCalendarFork = ({
   style = {},
   className = "",
   events = [],
@@ -473,4 +473,4 @@ const RevoCalendar = ({
     </ThemeProvider>
   );
 };
-export default RevoCalendar;
+export default RevoCalendarFork;
